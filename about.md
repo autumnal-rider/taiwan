@@ -4,15 +4,6 @@ title: About
 permalink: /about/
 ---
 
-Travelogue is a minimal, single-column Jekyll theme that provides an immersive read experience for your readers.
+初老騎士是關於三個軟體工程師(碼農)的故事。他們三個分別屬於 70 後、80 後、90 後三個世代。三個人曾經在同一個地方工作，一起解 bug、一起做 feature、一起出國、一起吃飯、一起打屁…。
 
-![Post](https://dl.dropboxusercontent.com/u/18322837/GitHub/Travelogue/Post.png)
-
-## Getting Started
-The theme provides a complete Jekyll setup. Download it and start the Jekyll server.
-
-    git clone https://github.com/SalGnt/Travelogue.git
-    cd Travelogue
-    jekyll serve
-
-Visit the [Jekyll website](http://jekyllrb.com/) for more information.
+這三個軟體工程師的環島故事就從這個 Blog 開始。
