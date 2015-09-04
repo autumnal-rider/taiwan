@@ -7,7 +7,7 @@ url: 'http://autumnal-rider.github.io' # the base hostname & protocol for your s
 # Build settings
 markdown:            kramdown
 relative_permalinks: false
-permalink:           :title/
+permalink: "/:year/:month/:day/:title/"
 
 pagination:          true
 paginate:            8
