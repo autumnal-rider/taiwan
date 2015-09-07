@@ -11,6 +11,7 @@
     <meta property="og:site_name" content="{{ site.title }}" />
     {% if page.thumb %}<meta name="og:image" content="{{ page.thumb }}"/>{% endif %}
     {% for image in page.backgrounds %}<meta name="og:image" content="{{ image }}" />{% endfor %}
+    <meta property="og:url" content="{{ page.url | prepend: site.siteurl }}" />
     <meta property="og:type" content="article" />
 
     <link rel="stylesheet" href="http://fonts.googleapis.com/css?family=Merriweather:300,300italic,400,400italic,700italic,700">
