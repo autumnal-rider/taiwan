@@ -6,6 +6,7 @@ category: 環島
 tags: 環島 台灣 Taiwan 宜蘭 花蓮 麗娜輪 牛山 光復糖廠 馬太鞍濕地 瑞穗牧場 瑞穗黃家溫泉山莊
 keywords: 環島,台灣,Taiwan,宜蘭,花蓮,麗娜輪,牛山,光復糖廠,馬太鞍濕地,瑞穗牧場,瑞穗黃家溫泉山莊
 google_map: http://bit.ly/1iqRwzE
+thumb: https://farm1.staticflickr.com/734/21211783945_ea6242379d.jpg
 ---
 
 ## 路線
