@@ -12,7 +12,7 @@ home: true
         {% endif %}
 
         {% for post in source reversed %}
-        <li itemid="{{ site.siteurl }}{{ post.url | remove: 'index.html' }}" itemscope itemtype="http://schema.org/BlogPosting">
+        <li itemid="{{ site.siteurl }}{{ post.url | remove: 'index.html' }}" itemscope itemtype="https://schema.org/BlogPosting">
             <a itemprop="url" href="{{ site.siteurl }}{{ post.url | remove: 'index.html' }}" class="post-list-link">
                 <div class="post-list-info">
                     <h2 itemprop="headline" class="post-list-title">{{ post.title }}</h2>
