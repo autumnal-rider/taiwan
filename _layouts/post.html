@@ -2,7 +2,7 @@
 layout: default
 ---
 <div class="post" itemid="{{ page.url | prepend: site.siteurl }}" itemscope itemtype="http://schema.org/BlogPosting">
-    <meta itemprop="datePublished" content="{{ page.date }}">
+    <meta itemprop="datePublished" content="{{ page.date | date: "%Y-%m-%d" }}">
     {% if page.thumb %}<meta itemprop="image" content="{{ page.thumb }}"/>{% endif %}
     {% for image in page.backgrounds %}<meta itemprop="image" content="{{ image }}" />{% endfor %}
     {% if page.reading_time %}
