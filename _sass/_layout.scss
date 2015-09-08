@@ -101,9 +101,9 @@
 
         @include transition($transition-base);
 
-        // &:first-child {
-        //     width: 100%;
-        // }
+        &:first-child {
+            width: 100%;
+        }
 
         &:last-child {
             margin-bottom: $spacing-unit;
