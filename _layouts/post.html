@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-<div class="post" itemid="{{ page.url | prepend: site.siteurl }}" itemscope itemtype="http://schema.org/BlogPosting">
+<div class="post" itemid="{{ page.url | prepend: site.siteurl }}" itemscope itemtype="https://schema.org/BlogPosting">
     <meta itemprop="datePublished" content="{{ page.date | date: "%Y-%m-%d" }}">
     {% if page.thumb %}<meta itemprop="image" content="{{ page.thumb }}"/>{% endif %}
     {% for image in page.backgrounds %}<meta itemprop="image" content="{{ image }}" />{% endfor %}
@@ -31,14 +31,14 @@ layout: default
         {% endif %}
         {{ content }}
         {% if page.travel %}
-        <div style="display: none;" hidden itemscope itemtype="http://schema.org/TravelAction">
-            <span itemprop="agent" itemscope itemtype="http://schema.org/Organization">
+        <div style="display: none;" hidden itemscope itemtype="https://schema.org/TravelAction">
+            <span itemprop="agent" itemscope itemtype="https://schema.org/Organization">
                 <meta itemprop="name" content="{{ site.author }}"/>
             </span>
-            <span itemprop="fromLocation" itemscope itemtype="http://schema.org/Place">
+            <span itemprop="fromLocation" itemscope itemtype="https://schema.org/Place">
                 <meta itemprop="name" content="{{ page.travel.from }}" />
             </span>
-            <span itemprop="toLocation" itemscope itemtype="http://schema.org/Place">
+            <span itemprop="toLocation" itemscope itemtype="https://schema.org/Place">
                 <meta itemprop="name" content="{{ page.travel.to }}" />
             </span>
             <meta itemprop="distance" content="{{ page.travel.distance }}" />
@@ -70,13 +70,13 @@ layout: default
             <h3 class="meta-title">Author</h3>
             <span propitem="author" class="meta-content" rel="author">
             {% if page.author %}
-                <span itemscope itemtype="http://schema.org/Person">
+                <span itemscope itemtype="https://schema.org/Person">
                     <span itemprop="name">
                         {{ page.author }}
                     </span>
                 </span>
             {% else %}
-                <span itemscope itemtype="http://schema.org/Organization">
+                <span itemscope itemtype="https://schema.org/Organization">
                     <span itemprop="name">
                         {{ site.author }}
                     </span>
