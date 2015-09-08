@@ -4,7 +4,7 @@ title: Archive
 permalink: /archive/
 ---
 
-{% for post in site.posts %}
+{% for post in site.posts reversed %}
     {% capture currentyear %}{{ post.date | date: "%Y" }}{% endcapture %}
     {% if currentyear != year %}
         {% unless forloop.first %}
