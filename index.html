@@ -12,15 +12,18 @@ home: true
         {% endif %}
 
         {% for post in source reversed %}
-        <li>
-            <a href="{{ post.url | prepend: site.baseurl }}" class="post-list-link">
+        <li itemid="{{ site.siteurl }}{{ post.url | remove: 'index.html' }}" itemscope itemtype="http://schema.org/BlogPosting">
+            <a itemprop="url" href="{{ site.siteurl }}{{ post.url | remove: 'index.html' }}" class="post-list-link">
                 <div class="post-list-info">
-                    <h2 class="post-list-title">{{ post.title }}</h2>
+                    <h2 itemprop="headline" class="post-list-title">{{ post.title }}</h2>
                     <span class="post-list-meta">{{ post.date | date: "%B %-d, %Y" }}</span>
+                    <meta itemprop="datePublished" content="{{ post.date }}">
                 </div>
             </a>
-
-            <img src="{{ post.thumb }}" class="post-list-thumb" />
+            {% if post.thumb %}
+            <img itemprop="thumbnailUrl" src="{{ post.thumb }}" class="post-list-thumb" />
+            <meta itemprop="image" content="{{ post.thumb }}"/>{% endif %}
+            {% for image in post.backgrounds %}<meta itemprop="image" content="{{ image }}" />{% endfor %}
         </li>
         {% endfor %}
     </ul>
