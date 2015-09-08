@@ -29,3 +29,7 @@ defaults:
         # Social
         share_buttons: true
         disqus: true
+
+data:
+  social:
+    disqus_shortname: autumnal-rider
