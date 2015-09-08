@@ -5,6 +5,9 @@ baseurl: '/taiwan' # the subpath of your site, e.g. /blog
 url: 'http://autumnal-rider.github.io' # the base hostname & protocol for your site
 siteurl: 'http://autumnal-rider.github.io/taiwan'
 lang: zh
+author: '秋天騎士'
+travel:
+  instrument_type: 'http://auto.schema.org/Motorcycle'
 
 # Build settings
 markdown:            kramdown
