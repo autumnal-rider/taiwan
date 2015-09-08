@@ -17,7 +17,7 @@ home: true
                 <div class="post-list-info">
                     <h2 itemprop="headline" class="post-list-title">{{ post.title }}</h2>
                     <span class="post-list-meta">{{ post.date | date: "%B %-d, %Y" }}</span>
-                    <meta itemprop="datePublished" content="{{ post.date }}">
+                    <meta itemprop="datePublished" content="{{ post.date | date: "%Y-%m-%d" }}">
                 </div>
             </a>
             {% if post.thumb %}
