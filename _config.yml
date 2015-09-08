@@ -4,6 +4,7 @@ title: 秋天騎士 - 台灣
 baseurl: '/taiwan' # the subpath of your site, e.g. /blog
 url: 'http://autumnal-rider.github.io' # the base hostname & protocol for your site
 siteurl: 'http://autumnal-rider.github.io/taiwan'
+lang: zh
 
 # Build settings
 markdown:            kramdown
