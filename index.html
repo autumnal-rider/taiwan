@@ -11,7 +11,7 @@ home: true
         {% assign source = site.posts %}
         {% endif %}
 
-        {% for post in source %}
+        {% for post in source reversed %}
         <li>
             <a href="{{ post.url | prepend: site.baseurl }}" class="post-list-link">
                 <div class="post-list-info">
