@@ -9,8 +9,8 @@
     <meta property="og:title" content="{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}" />
     <meta property="og:description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 | replace: ' ', '%20' }}{% else %}{{ site.description }}{% endif %}">
     <meta property="og:site_name" content="{{ site.title }}" />
-    {% if page.thumb %}<meta name="og:image" content="{{ page.thumb }}"/>{% endif %}
-    {% for image in page.backgrounds %}<meta name="og:image" content="{{ image }}" />{% endfor %}
+    {% if page.thumb %}<meta property="og:image" content="{{ page.thumb }}"/>{% endif %}
+    {% for image in page.backgrounds %}<meta property="og:image" content="{{ image }}" />{% endfor %}
     <meta property="og:url" content="{{ page.url | prepend: site.siteurl }}" />
     <meta property="og:type" content="article" />
 
