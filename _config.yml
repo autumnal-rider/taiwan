@@ -36,10 +36,19 @@ defaults:
 
 data:
   social:
-    disqus_shortname: autumnal-rider
+    disqus_shortname:
+    facebook: true
+    twitter: true
+    linkedin: true
+    reddit: true
+    pinterest: true
+    pocket: true
+    email: true
 
 # optimize html
 compress_html:
   clippings: all
   comments: ["<!-- ", " -->"]
   endings: all
+  ignore:
+    envs: [local]
