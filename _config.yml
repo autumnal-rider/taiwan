@@ -37,7 +37,3 @@ defaults:
 data:
   social:
     disqus_shortname: autumnal-rider
-
-# optimize html
-compress_html:
-  clippings: all
