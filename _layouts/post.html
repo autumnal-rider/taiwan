@@ -62,13 +62,13 @@ layout: default
     <footer class="post-meta">
         {% if page.date %}
         <div class="meta">
-            <h3 class="meta-title">Date</h3>
+            <h3 class="meta-title">日期</h3>
             <span class="meta-content">{{ page.date | date: "%B %-d, %Y" }}</span>
         </div>
         {% endif %}
         {% if page.author or site.author %}
         <div class="meta">
-            <h3 class="meta-title">Author</h3>
+            <h3 class="meta-title">作者</h3>
 
             {% if page.author %}
             <span itemprop="author" class="meta-content" rel="author" itemscope itemtype="https://schema.org/Person">
@@ -87,7 +87,7 @@ layout: default
         {% endif %}
         {% if page.show_categories %}
         <div class="meta">
-            <h3 class="meta-title">Categories</h3>
+            <h3 class="meta-title">分類</h3>
             <span class="meta-content">
                 {% for category in page.categories %}
                     {{ category | capitalize }}&nbsp;
@@ -97,7 +97,7 @@ layout: default
         {% endif %}
         {% if page.show_tags %}
         <div class="meta">
-            <h3 class="meta-title">Tags</h3>
+            <h3 class="meta-title">關鍵字</h3>
             <span itemprop="keywords" class="meta-content">
                 {% for tag in page.tags %}
                     {{ tag | capitalize }}&nbsp;
