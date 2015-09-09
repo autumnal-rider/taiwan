@@ -1,6 +1,6 @@
 # Site settings
 title: 台灣機車環島 - 秋天騎士
-
+topic_title: 台灣機車環島
 baseurl: '/taiwan' # the subpath of your site, e.g. /blog
 url: 'https://autumnal-rider.github.io' # the base hostname & protocol for your site
 siteurl: 'https://autumnal-rider.github.io/taiwan'
