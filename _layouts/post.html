@@ -25,13 +25,14 @@ layout: default
     </header>
 
     <article class="post-content">
-        <meta itemprop="agent" >
         {% if page.google_map %}
         <iframe src="{{ page.google_map }}" width="100%" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
         {% endif %}
+        <div itemprop="articleBody">
         {{ content }}
+        </div>
         {% if page.travel %}
-        <div style="display: none;" hidden itemscope itemtype="https://schema.org/TravelAction">
+        <div itemprop="about" itemscope itemtype="https://schema.org/TravelAction">
             <span itemprop="agent" itemscope itemtype="https://schema.org/Organization">
                 <meta itemprop="name" content="{{ site.author }}"/>
             </span>
@@ -68,20 +69,20 @@ layout: default
         {% if page.author or site.author %}
         <div class="meta">
             <h3 class="meta-title">Author</h3>
-            <span propitem="author" class="meta-content" rel="author">
+
             {% if page.author %}
-                <span itemscope itemtype="https://schema.org/Person">
-                    <span itemprop="name">
-                        {{ page.author }}
-                    </span>
+            <span itemprop="author" class="meta-content" rel="author" itemscope itemtype="https://schema.org/Person">
+                <span itemprop="name">
+                    {{ page.author }}
                 </span>
+            </span>
             {% else %}
-                <span itemscope itemtype="https://schema.org/Organization">
-                    <span itemprop="name">
-                        {{ site.author }}
-                    </span>
+            <span itemprop="author" class="meta-content" rel="author" itemscope itemtype="https://schema.org/Organization">
+                <span itemprop="name">
+                    {{ site.author }}
                 </span>
-            {% endif %}</span>
+            </span>
+            {% endif %}
         </div>
         {% endif %}
         {% if page.show_categories %}
