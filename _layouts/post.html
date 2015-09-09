@@ -31,7 +31,7 @@ layout: default
         {% endif %}
         {{ content }}
         {% if page.travel %}
-        <div style="display: none;" itemprop="about" hidden itemscope itemtype="https://schema.org/TravelAction">
+        <div style="display: none;" hidden itemscope itemtype="https://schema.org/TravelAction">
             <span itemprop="agent" itemscope itemtype="https://schema.org/Organization">
                 <meta itemprop="name" content="{{ site.author }}"/>
             </span>
@@ -68,20 +68,20 @@ layout: default
         {% if page.author or site.author %}
         <div class="meta">
             <h3 class="meta-title">Author</h3>
-
+            <span propitem="author" class="meta-content" rel="author">
             {% if page.author %}
-            <span itemprop="author" class="meta-content" rel="author" itemscope itemtype="https://schema.org/Person">
-                <span itemprop="name">
-                    {{ page.author }}
+                <span itemscope itemtype="https://schema.org/Person">
+                    <span itemprop="name">
+                        {{ page.author }}
+                    </span>
                 </span>
-            </span>
             {% else %}
-            <span itemprop="author" class="meta-content" rel="author" itemscope itemtype="https://schema.org/Organization">
-                <span itemprop="name">
-                    {{ site.author }}
+                <span itemscope itemtype="https://schema.org/Organization">
+                    <span itemprop="name">
+                        {{ site.author }}
+                    </span>
                 </span>
-            </span>
-            {% endif %}
+            {% endif %}</span>
         </div>
         {% endif %}
         {% if page.show_categories %}
