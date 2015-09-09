@@ -37,3 +37,12 @@ defaults:
 data:
   social:
     disqus_shortname: autumnal-rider
+
+# optimize html
+compress_html:
+  clippings: all
+  comments: ["<!-- ", " -->"]
+  endings: all
+  profile: true
+  ignore:
+    envs: [local]
