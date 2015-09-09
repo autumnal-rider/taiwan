@@ -10,7 +10,6 @@
         if (location.protocol !== 'https:'
             && location.origin.indexOf('http://127.0.0.1') !== 0
             && location.origin.indexOf('http://localhost') !== 0) {
-            // auto redirect to secured page
             location.href = location.href.replace('http://', 'https://');
             return;
         }
