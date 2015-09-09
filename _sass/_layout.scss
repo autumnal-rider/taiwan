@@ -93,6 +93,7 @@
     > li {
         border: 10px solid transparent;
         color: $text-color-light;
+        -webkit-flex-grow: 1;
         flex-grow: 1;
         height: 200px;
         overflow: hidden;
