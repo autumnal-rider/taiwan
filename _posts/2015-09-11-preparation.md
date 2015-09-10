@@ -28,6 +28,8 @@ thumb: https://farm1.staticflickr.com/639/21046577649_6c3568c304.jpg" width="500
 - 相機
 - 記憶卡
 - 行動電源
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/29086614@N05/21234573536/in/album-72157657958482689/" title="相機、記憶卡及行動電源"><img src="https://farm6.staticflickr.com/5727/21234573536_c4fcaf5111.jpg" width="100%" alt="相機、記憶卡及行動電源"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
 - 充電器
 - 筆電
 - 盥洗衣物
@@ -35,6 +37,8 @@ thumb: https://farm1.staticflickr.com/639/21046577649_6c3568c304.jpg" width="500
 - 零食
 - 水壺
 - 訂房及郵輪票券
+- 袖套
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/29086614@N05/20639684673/in/album-72157657958482689/" title="袖套"><img src="https://farm1.staticflickr.com/744/20639684673_23854dc1c3.jpg" width="100%"  alt="袖套"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 ### 手機
 
