@@ -7,6 +7,20 @@ tags: 環島 台灣 Taiwan 台北 宜蘭 樂口福 陰陽海 鼻頭角燈塔 福
 keywords: 環島,台灣,Taiwan,台北,宜蘭,樂口福,陰陽海,鼻頭角燈塔,福隆海水浴場,三貂角燈塔,伯朗咖啡城堡,蘭陽博物館,南方澳
 google_map: https://bit.ly/1K0cfjJ
 thumb: https://farm6.staticflickr.com/5781/20590656563_998e4617da_z.jpg
+backgrounds:
+    - https://farm6.staticflickr.com/5749/21361538971_2bd6dd3bc1_k.jpg"
+    - https://farm1.staticflickr.com/648/21353265065_b7f11b20fc_k.jpg"
+    - https://farm6.staticflickr.com/5768/20732157063_e977daa93e_k.jpg"
+    - https://farm6.staticflickr.com/5814/21165150230_5315a037d7_k.jpg"
+    - https://farm1.staticflickr.com/661/20732169403_0a4173e239_k.jpg"
+    - https://farm6.staticflickr.com/5827/21342473012_255428397f_k.jpg"
+    - https://farm1.staticflickr.com/756/20730534754_c390193cc6_k.jpg"
+    - https://farm6.staticflickr.com/5836/21342462802_d62f40d2c0_k.jpg"
+    - https://farm1.staticflickr.com/725/20732121103_07e6b4ea3b_k.jpg"
+    - https://farm1.staticflickr.com/649/21353221155_1515614a04_k.jpg"
+    - https://farm1.staticflickr.com/759/20730519264_fc33fd1717_k.jpg"
+    - https://farm6.staticflickr.com/5688/20730532274_47454a7958_k.jpg"
+    - https://farm6.staticflickr.com/5678/21326979716_716f105198_k.jpg"
 travel:
   from: 台北
   to: 宜蘭
