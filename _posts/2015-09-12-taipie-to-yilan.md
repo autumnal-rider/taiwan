@@ -34,25 +34,37 @@ travel:
 
 ## 旅程
 
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/106069910@N03/21344170062/in/dateposted-public/" title="P1440349"><img src="https://farm1.staticflickr.com/760/21344170062_646917af26.jpg" width="500" alt="P1440349"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
 秋天騎士於 9 月 12 日早晨順利出發。首先，我們在台北的樂口福集合，接著走新台五路前往東北角。於此同時，騎士的保母車 (Volve S60) 也於類似時間出發。但是，當騎士們到達鼻頭角燈塔時，保母車居然還在五堵。這不禁讓我們懷疑 **『Volve S60 是不是開不快』**？還是，這是駕駛的問題呢？
 
 ### 鼻頭角燈塔
+
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/106069910@N03/21167045518/in/dateposted-public/" title="P1440375"><img src="https://farm6.staticflickr.com/5789/21167045518_faec37d3dc.jpg" width="500" alt="P1440375"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 鼻頭角燈塔出奇的特別，原本以為會是一個很大的燈塔。沒想到，它是一個小而美的燈塔。
 
 ### 福隆海水浴場
 
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/106069910@N03/21354862065/in/dateposted-public/" title="P1440394"><img src="https://farm1.staticflickr.com/720/21354862065_e324081915.jpg" width="500" alt="P1440394"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
 由於時間的關係，我們到福隆的時候已經下午兩點，並且在那邊排隊買便當，所以我們就僅在福隆火車站停留。
 
 ### 三貂角燈塔
+
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/106069910@N03/21166987758/in/dateposted-public/" title="P1440450"><img src="https://farm1.staticflickr.com/707/21166987758_fe3a01bd69.jpg" width="500" alt="P1440450"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 三貂角燈塔是一個非常美麗的燈塔，非常值得推薦大家前往。
 
 ### 伯朗咖啡城堡
 
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/106069910@N03/20733704123/in/dateposted-public/" title="P1440464"><img src="https://farm6.staticflickr.com/5797/20733704123_5e0dc2a505.jpg" width="500" alt="P1440464"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
 伯朗咖啡城堡上山的路上非常的蜿蜒。但是，上去之後就有種豁然開朗的感覺。
 
 ### 阿宗芋冰城
+
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/106069910@N03/21343233252/in/dateposted-public/" title="P1440484"><img src="https://farm6.staticflickr.com/5811/21343233252_fa8894e11e.jpg" width="500" alt="P1440484"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 這冰實在太好吃了，而且三球只要 40 元。這是在秋天騎士上般的地方買不到的價錢。這真是太強了。
 
