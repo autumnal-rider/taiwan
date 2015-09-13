@@ -5,17 +5,31 @@ date: 2015-09-13
 category: 環島
 tags: 環島 台灣 Taiwan 宜蘭 花蓮 麗娜輪 牛山 光復糖廠 馬太鞍濕地 瑞穗牧場 瑞穗黃家溫泉山莊
 keywords: 環島,台灣,Taiwan,宜蘭,花蓮,麗娜輪,牛山,光復糖廠,馬太鞍濕地,瑞穗牧場,瑞穗黃家溫泉山莊
-google_map: https://bit.ly/1iqRwzE
+google_map: https://bit.ly/1FFiZ5s
 thumb: https://farm1.staticflickr.com/750/20759411394_9b8069ea9e_n.jpg
+backgrounds:
+    - https://farm6.staticflickr.com/5725/21371397022_c372e831f3_h.jpg
+    - https://farm1.staticflickr.com/745/21194343918_45a97f394a_h.jpg
+    - https://farm1.staticflickr.com/634/20761106223_d54887846e_h.jpg
+    - https://farm6.staticflickr.com/5672/21355932196_7b223675fd_h.jpg
+    - https://farm1.staticflickr.com/636/21195248929_0566b2bef2_h.jpg
+    - https://farm1.staticflickr.com/649/21355896936_95c65fbbc9_h.jpg
+    - https://farm6.staticflickr.com/5803/21390423431_ea1a6e0ac0_h.jpg
+    - https://farm6.staticflickr.com/5639/21371242512_db9f769f93_h.jpg
+    - https://farm6.staticflickr.com/5791/20759319944_5d2931a904_h.jpg
+    - https://farm6.staticflickr.com/5671/21193878580_fff43b1a0c_h.jpg
+    - https://farm6.staticflickr.com/5828/21381948215_5cf3e8520c_h.jpg
+    - https://farm1.staticflickr.com/661/21194996159_8244eac54b_h.jpg
+    - https://farm6.staticflickr.com/5633/21194013838_a44bd96168_h.jpg
 travel:
   from: 宜蘭
   to: 花蓮
-  distance: '114 KM'
+  distance: '168 KM'
 ---
 
 ## 路線
 
-- 總長度: 114 公里
+- 總長度: 168 公里 (含船運)
 - 預定時間: 3 小時 (坐船 3 小時)
 
 ## 旅程
@@ -68,5 +82,5 @@ travel:
 
 ## 實際騎乘路徑
 
-如果大家想了解我們實際走過的路徑，可以下載這個 <a href="http://bit.ly/1K5PAn7" alt="KML 路徑檔" target="_blank">KML 路徑檔</a>，並使用 Google Earth 來查看。
+如果大家想了解我們實際走過的路徑，可以下載這個 <a href="https://bit.ly/1LryOyB" alt="KML 路徑檔" target="_blank">KML 路徑檔</a>，並使用 Google Earth 來查看。
 
