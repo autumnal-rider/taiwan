@@ -68,7 +68,7 @@ travel:
 
 瑞穗牧場是表定的行程，感覺很不錯，非常多乳牛，還有鴕鳥。重點是，不用門票。裡面還有一個廣大的草原讓牛與鴕鳥行走。
 
-### 綠荼肉圓
+### 綠茶肉圓
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/106069910@N03/20760887453/in/album-72157658526210481/" title="P1440674"><img src="https://farm6.staticflickr.com/5660/20760887453_722913b6b5.jpg" width="500" alt="P1440674"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
