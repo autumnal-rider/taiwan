@@ -6,7 +6,7 @@ category: 環島
 tags: 環島 台灣 Taiwan 宜蘭 花蓮 麗娜輪 牛山 光復糖廠 馬太鞍濕地 瑞穗牧場 瑞穗黃家溫泉山莊
 keywords: 環島,台灣,Taiwan,宜蘭,花蓮,麗娜輪,牛山,光復糖廠,馬太鞍濕地,瑞穗牧場,瑞穗黃家溫泉山莊
 google_map: https://bit.ly/1iqRwzE
-thumb: https://farm1.staticflickr.com/734/21211783945_ea6242379d.jpg
+thumb: https://farm1.staticflickr.com/750/20759411394_9b8069ea9e_n.jpg
 travel:
   from: 宜蘭
   to: 花蓮
@@ -26,30 +26,43 @@ travel:
 
 ### 麗娜輪
 
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/106069910@N03/20759442414/in/album-72157658526210481/" title="P1440499"><img src="https://farm6.staticflickr.com/5734/20759442414_b089da05bb.jpg" width="500" alt="P1440499"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
 麗娜輪是唯一行走於蘇澳港與花蓮港之間的客貨運輪。在這之前，騎士們從來都沒有聽過這個航線，直接規劃這次的環島才發現。麗娜輪的時速大約是 60 ~ 70 KM 之間，速度算快，而且不用自己騎車，所以還算非常輕鬆。
 
-
 ### 戴記扁食
+
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/106069910@N03/21390401091/in/album-72157658526210481/" title="P1440611"><img src="https://farm1.staticflickr.com/713/21390401091_f4a51fd803.jpg" width="500" alt="P1440611"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 聽說戴記扁食是當地人會吃的扁食，外加上到了花蓮不吃扁食有點說不過去。所以，騎士們就前往戴記扁食。
 
 ### 公正包子
 
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/106069910@N03/21355805216/in/album-72157658526210481/" title="P1440613"><img src="https://farm6.staticflickr.com/5632/21355805216_830e567bf6.jpg" width="500" alt="P1440613"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
 公正包子也是一間必來的店。最讓騎士們感到訝異是：居然 10 個蒸餃只要 30 元，而且蒸餃與小籠包都超好吃。
 
 ### 豐春冰菓店
+
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/106069910@N03/21355777366/in/album-72157658526210481/" title="P1440621"><img src="https://farm6.staticflickr.com/5697/21355777366_c487a233c1.jpg" width="500" alt="P1440621"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 豐春冰菓店果然名不虛傳，感覺芋頭不用錢的樣子。而且他們的冰似乎是用蔗糖，真的不錯吃。
 
 ### 瑞穗牧場
 
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/106069910@N03/20760915183/in/album-72157658526210481/" title="P1440631"><img src="https://farm1.staticflickr.com/749/20760915183_2f53ecbffb.jpg" width="500" alt="P1440631"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
 瑞穗牧場是表定的行程，感覺很不錯，非常多乳牛，還有鴕鳥。重點是，不用門票。裡面還有一個廣大的草原讓牛與鴕鳥行走。
 
 ### 綠荼肉圓
 
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/106069910@N03/20760887453/in/album-72157658526210481/" title="P1440674"><img src="https://farm6.staticflickr.com/5660/20760887453_722913b6b5.jpg" width="500" alt="P1440674"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
 綠荼肉圓... <= 幹，騎士們並沒吃到傳說中的肉圓，但還是吃了他們的麵跟冬粉。
 
 ### 黃家溫泉
+
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/106069910@N03/20759225584/in/album-72157658526210481/" title="P1440676"><img src="https://farm1.staticflickr.com/740/20759225584_2a9b0c2d68.jpg" width="500" alt="P1440676"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 黃家溫泉是今天的最後一站，這間民宿看起很漂亮，所以騎士們就在這邊展開一系列的 Hackathon...
 
