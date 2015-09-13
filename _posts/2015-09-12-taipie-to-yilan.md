@@ -8,18 +8,18 @@ keywords: 環島,台灣,Taiwan,台北,宜蘭,樂口福,陰陽海,鼻頭角燈塔
 google_map: https://bit.ly/1UKtmRQ
 thumb: https://farm1.staticflickr.com/707/21166987758_fe3a01bd69_n.jpg
 backgrounds:
-    - https://farm6.staticflickr.com/5749/21361538971_c241d0637f_h.jpg"
-    - https://farm1.staticflickr.com/648/21353265065_cafc9a7315_h.jpg"
-    - https://farm6.staticflickr.com/5768/20732157063_00484b1c49_h.jpg"
-    - https://farm6.staticflickr.com/5814/21165150230_998e4c8865_h.jpg"
-    - https://farm1.staticflickr.com/661/20732169403_cabda84ece_h.jpg"
-    - https://farm6.staticflickr.com/5827/21342473012_87e26577fb_h.jpg"
-    - https://farm1.staticflickr.com/756/20730534754_c5d7bbbb43_h.jpg"
-    - https://farm6.staticflickr.com/5836/21342462802_2e70d58d1c_h.jpg"
-    - https://farm1.staticflickr.com/725/20732121103_196290f0b2_h.jpg"
-    - https://farm1.staticflickr.com/649/21353221155_83aecb6e6e_h.jpg"
-    - https://farm1.staticflickr.com/759/20730519264_b1e3203c12_h.jpg"
-    - https://farm6.staticflickr.com/5688/20730532274_2671771391_h.jpg"
+    - https://farm6.staticflickr.com/5749/21361538971_c241d0637f_h.jpg
+    - https://farm1.staticflickr.com/648/21353265065_cafc9a7315_h.jpg
+    - https://farm6.staticflickr.com/5768/20732157063_00484b1c49_h.jpg
+    - https://farm6.staticflickr.com/5814/21165150230_998e4c8865_h.jpg
+    - https://farm1.staticflickr.com/661/20732169403_cabda84ece_h.jpg
+    - https://farm6.staticflickr.com/5827/21342473012_87e26577fb_h.jpg
+    - https://farm1.staticflickr.com/756/20730534754_c5d7bbbb43_h.jpg
+    - https://farm6.staticflickr.com/5836/21342462802_2e70d58d1c_h.jpg
+    - https://farm1.staticflickr.com/725/20732121103_196290f0b2_h.jpg
+    - https://farm1.staticflickr.com/649/21353221155_83aecb6e6e_h.jpg
+    - https://farm1.staticflickr.com/759/20730519264_b1e3203c12_h.jpg
+    - https://farm6.staticflickr.com/5688/20730532274_2671771391_h.jpg
     - https://farm6.staticflickr.com/5678/21326979716_68c5eb764d_h.jpg
 travel:
   from: 台北
