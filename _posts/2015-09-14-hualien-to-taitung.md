@@ -6,7 +6,7 @@ category: 環島
 tags: 環島 台灣 Taiwan 花蓮 台東 北迴歸線標誌公園 六十石山 伯朗大道 鹿鳴吊橋 鹿野高台 初鹿牧場 台東豐源國小 鰲山居
 keywords: 環島,台灣,Taiwan,花蓮,台東,北迴歸線標誌公園,六十石山,伯朗大道,鹿鳴吊橋,鹿野高台,初鹿牧場,台東豐源國小,鰲山居
 google_map: https://bit.ly/1MmukiM
-thumb: https://farm6.staticflickr.com/5819/21201413222_852b0197f5.jpg
+thumb: https://farm6.staticflickr.com/5674/21420029441_420e532fe8.jpg
 travel:
   from: 花蓮
   to: 台東
@@ -24,29 +24,43 @@ travel:
 
 ### 北迴歸線標誌公園
 
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/106069910@N03/20790586243/in/album-72157658526210481/" title="P1440698"><img src="https://farm6.staticflickr.com/5723/20790586243_5072b4cc38.jpg" width="500" alt="P1440698"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
 北迴歸線標誌公園是一個很小的公園，騎士們差點錯過了這個公園，它的重點只有一個：北迴歸線經過這裡。
 
 ### 六十石山
+
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/106069910@N03/21411579085/in/album-72157658526210481/" title="P1440752"><img src="https://farm6.staticflickr.com/5826/21411579085_49cdaf1231.jpg" width="500" alt="P1440752"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 六十石山實在美的太誇張了，騎士們都認為之後還要再來一次。
 
 ### 全美行池上便當
 
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/106069910@N03/21224636329/in/album-72157658526210481/" title="P1440774"><img src="https://farm1.staticflickr.com/563/21224636329_f521ed098d.jpg" width="500" alt="P1440774"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
 到了池上就要吃便當，很多人都會選擇其它的池上便當。經過在地ㄝ的推薦，騎士們選擇了全美行池上便當。這家真的很好吃。
 
 ### 伯朗大道
+
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/106069910@N03/21419898961/in/album-72157658526210481/" title="P1440811"><img src="https://farm1.staticflickr.com/696/21419898961_04e8b74d2e.jpg" width="500" alt="P1440811"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 伯朗大道就在全美行池上便當附近，當然用走的還是走不到，還是要騎車過去。騎士們到了後，用走的走進去，發現金城武樹居然在兩公里遠，再加上感覺快下雨了，就快閃離開。
 
 ### 鹿野高台
 
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/106069910@N03/21401072722/in/dateposted-public/" title="P1440841"><img src="https://farm6.staticflickr.com/5726/21401072722_d7108bda20.jpg" width="500" alt="P1440841"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
 現在不是熱氣球的季節，所以鹿野高台變成是滑草的地方。雖然沒熱氣球，但整個的大草原還是很漂亮。
 
 ### 鹿鳴吊橋
 
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/106069910@N03/21411435945/in/album-72157658526210481/" title="P1440848"><img src="https://farm6.staticflickr.com/5658/21411435945_ed8156109f.jpg" width="500" alt="P1440848"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
 鹿鳴吊橋是一個很特別的小地方，騎士在網路上找到這個景點，但是在 Google Map 上居然看不到。不過，最終還是被騎士們找到了。
 
 ### 鰲山居
+
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/106069910@N03/20788689764/in/album-72157658526210481/" title="P1440880"><img src="https://farm1.staticflickr.com/694/20788689764_9a826bfc27.jpg" width="500" alt="P1440880"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 鰲山居是今天休息的民宿，這裡的老闆跟老闆娘人都非常好。而且，整晚的飛機聲，居然在裡面都聽不到，隔音真的很好。
 
