@@ -62,7 +62,7 @@ travel:
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/106069910@N03/20788689764/in/album-72157658526210481/" title="P1440880"><img src="https://farm1.staticflickr.com/694/20788689764_9a826bfc27.jpg" width="500" alt="P1440880"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-鰲山居是今天休息的民宿，這裡的老闆跟老闆娘人都非常好。而且，整晚的飛機聲，居然在裡面都聽不到，隔音真的很好。
+鰲山居是今天休息的民宿，這裡的老闆跟老闆娘人都非常好。而且，整晚的飛機聲，居然在裡面都聽不到，隔音真的很好。就在我們截稿的當下，老闆就已經把還在試賣的碳烤吐司烤好了！
 
 ## 實際騎乘路徑
 
