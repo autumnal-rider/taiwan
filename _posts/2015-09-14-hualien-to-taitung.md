@@ -54,7 +54,7 @@ travel:
 
 ### 鹿鳴吊橋
 
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/106069910@N03/21411435945/in/album-72157658526210481/" title="P1440848"><img src="https://farm6.staticflickr.com/5658/21411435945_ed8156109f.jpg" width="500" alt="P1440848"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/106069910@N03/21225435259/in/dateposted-public/" title="P1440848"><img src="https://farm1.staticflickr.com/674/21225435259_9663aee906.jpg" width="500" height="334" alt="P1440848"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 鹿鳴吊橋是一個很特別的小地方，騎士在網路上找到這個景點，但是在 Google Map 上居然看不到。不過，最終還是被騎士們找到了。
 
