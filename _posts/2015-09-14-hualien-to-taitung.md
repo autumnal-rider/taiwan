@@ -7,6 +7,19 @@ tags: 環島 台灣 Taiwan 花蓮 台東 北迴歸線標誌公園 六十石山 �
 keywords: 環島,台灣,Taiwan,花蓮,台東,北迴歸線標誌公園,六十石山,伯朗大道,鹿鳴吊橋,鹿野高台,初鹿牧場,台東豐源國小,鰲山居
 google_map: https://bit.ly/1MmukiM
 thumb: https://farm6.staticflickr.com/5674/21420029441_420e532fe8.jpg
+backgrounds:
+    - https://farm1.staticflickr.com/768/21385908876_cdd6b7416c_h.jpg
+    - https://farm6.staticflickr.com/5782/21224031770_f62d7793fb_h.jpg
+    - https://farm6.staticflickr.com/5770/21420506231_0555279288_h.jpg
+    - https://farm1.staticflickr.com/767/21224349208_73b7e6ef52_h.jpg
+    - https://farm6.staticflickr.com/5823/21401215412_fefa766eac_h.jpg
+    - https://farm6.staticflickr.com/5836/21224394658_4e203a8025_h.jpg
+    - https://farm1.staticflickr.com/627/21386021776_d8ce5b3905_h.jpg
+    - https://farm6.staticflickr.com/5631/21225400969_a5c54668d0_h.jpg
+    - https://farm6.staticflickr.com/5668/21401430022_a029b127e2_h.jpg
+    - https://farm1.staticflickr.com/657/21224241440_10d0f385f7_h.jpg
+    - https://farm1.staticflickr.com/752/20791267323_57bce1bac7_h.jpg
+    - https://farm6.staticflickr.com/5653/21412366305_25af954c46_h.jpg
 travel:
   from: 花蓮
   to: 台東
