@@ -7,6 +7,16 @@ tags: 環島 台灣 Taiwan 台東 萬巒 多良車站 海鴻飯店 萬金聖母�
 keywords: 環島,台灣,Taiwan,台東,萬巒,多良車站,海鴻飯店,萬金聖母聖殿
 google_map: https://bit.ly/1Lw3S0d
 thumb: https://farm6.staticflickr.com/5722/21428576952_6f90e366bd_n.jpg
+backgrounds:
+    - https://farm6.staticflickr.com/5809/21428764852_804f48f969_h.jpg
+    - https://farm1.staticflickr.com/742/21428765342_41f960680f_h.jpg
+    - https://farm6.staticflickr.com/5799/21428765702_1e5a45e30b_h.jpg
+    - https://farm6.staticflickr.com/5716/21251638430_339f07733b_h.jpg
+    - https://farm6.staticflickr.com/5656/21251883068_d4645eabb5_h.jpg
+    - https://farm6.staticflickr.com/5675/21251639480_617931040e_h.jpg
+    - https://farm1.staticflickr.com/673/21252805389_b2d5f5e571_h.jpg
+    - https://farm1.staticflickr.com/685/21413472726_c9225d1e82_h.jpg
+    - https://farm1.staticflickr.com/707/21428768432_0dd5259666_h.jpg
 travel:
   from: 台東
   to: 屏東
