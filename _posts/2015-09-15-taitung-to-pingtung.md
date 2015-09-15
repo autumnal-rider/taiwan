@@ -3,8 +3,8 @@ layout: post
 title: "Day 4: 台東➟萬巒"
 date: 2015-09-15
 category: 環島
-tags: 環島 台灣 Taiwan 台東 萬巒 大鵬灣國家風景區 東港碼頭夕照
-keywords: 環島,台灣,Taiwan,台東,萬巒,大鵬灣國家風景區,東港碼頭夕照
+tags: 環島 台灣 Taiwan 台東 萬巒 多良車站 海鴻飯店 萬金聖母聖殿
+keywords: 環島,台灣,Taiwan,台東,萬巒,多良車站,海鴻飯店,萬金聖母聖殿
 google_map: https://bit.ly/1Lw3S0d
 thumb: https://farm6.staticflickr.com/5722/21428576952_6f90e366bd_n.jpg
 travel:
@@ -34,11 +34,11 @@ travel:
 
 相傳好多年前，蔣經國總統曾經到過海鴻飯店吃過一次豬腳。從此之後，海鴻飯店就變成豬腳的代名詞。不過，話說回來，這家的豬腳真的很好吃。
 
-### 萬金聖母聖堂
+### 萬金聖母聖殿
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/106069910@N03/20816803234/in/dateposted-public/" title="P1440987"><img src="https://farm1.staticflickr.com/631/20816803234_829d9d1ae7.jpg" width="500" alt="P1440987"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-萬金聖母聖堂是一個非常美麗的地方，這裡也是個上百年的古跡。
+萬金聖母聖殿是一個非常美麗的地方，這裡也是個上百年的古跡。
 
 ## 實際騎乘路徑
 
