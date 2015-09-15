@@ -8,18 +8,18 @@ keywords: 環島,台灣,Taiwan,花蓮,台東,北迴歸線標誌公園,六十石�
 google_map: https://bit.ly/1MmukiM
 thumb: https://farm6.staticflickr.com/5674/21420029441_420e532fe8.jpg
 backgrounds:
-    - https://farm1.staticflickr.com/768/21385908876_cdd6b7416c_h.jpg
-    - https://farm6.staticflickr.com/5782/21224031770_f62d7793fb_h.jpg
-    - https://farm6.staticflickr.com/5770/21420506231_0555279288_h.jpg
-    - https://farm1.staticflickr.com/767/21224349208_73b7e6ef52_h.jpg
-    - https://farm6.staticflickr.com/5823/21401215412_fefa766eac_h.jpg
-    - https://farm6.staticflickr.com/5836/21224394658_4e203a8025_h.jpg
-    - https://farm1.staticflickr.com/627/21386021776_d8ce5b3905_h.jpg
-    - https://farm6.staticflickr.com/5631/21225400969_a5c54668d0_h.jpg
-    - https://farm6.staticflickr.com/5668/21401430022_a029b127e2_h.jpg
-    - https://farm1.staticflickr.com/657/21224241440_10d0f385f7_h.jpg
-    - https://farm1.staticflickr.com/752/20791267323_57bce1bac7_h.jpg
-    - https://farm6.staticflickr.com/5653/21412366305_25af954c46_h.jpg
+    - https://farm1.staticflickr.com/777/20818275693_c8d0002668_h.jpg
+    - https://farm1.staticflickr.com/749/21251286570_e535e86ecb_h.jpg
+    - https://farm1.staticflickr.com/597/21251287120_f8405ab8fd_h.jpg
+    - https://farm1.staticflickr.com/595/21252452599_9ede1e7828_h.jpg
+    - https://farm1.staticflickr.com/779/21447838671_4bcc4d5931_h.jpg
+    - https://farm6.staticflickr.com/5673/21439350275_7e8900a128_h.jpg
+    - https://farm6.staticflickr.com/5836/21439351045_d863e89617_h.jpg
+    - https://farm1.staticflickr.com/704/20818279823_adaaa41a66_h.jpg
+    - https://farm6.staticflickr.com/5653/21252456819_13e54f365f_h.jpg
+    - https://farm1.staticflickr.com/708/21252456389_630d5d0200_h.jpg
+    - https://farm1.staticflickr.com/721/20818281183_166b75684d_h.jpg
+    - https://farm1.staticflickr.com/677/21251538548_aa92b49291_h.jpg
 travel:
   from: 花蓮
   to: 台東
