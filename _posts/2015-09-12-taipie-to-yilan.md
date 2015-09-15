@@ -36,7 +36,9 @@ travel:
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/106069910@N03/21344170062/in/dateposted-public/" title="P1440349"><img src="https://farm1.staticflickr.com/760/21344170062_646917af26.jpg" width="500" alt="P1440349"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-秋天騎士於 9 月 12 日早晨順利出發。首先，我們在台北的樂口福集合，接著走新台五路前往東北角。於此同時，騎士的保母車 (Volve S60) 也於類似時間出發。但是，當騎士們到達鼻頭角燈塔時，保母車居然還在五堵。這不禁讓我們懷疑 **『Volve S60 是不是開不快』**？還是，這是駕駛的問題呢？
+秋天騎士於 9 月 12 日早晨順利出發。首先，大家在台北的樂口福集合，接著走新台五路前往東北角。於此同時，騎士的保母車 (Volve S60) 也於類似時間出發。但是，當騎士們到達鼻頭角燈塔時，保母車居然還在五堵。這不禁讓我們懷疑 **『Volve S60 是不是開不快』**？還是，這是駕駛的問題呢？
+
+今天騎士們住在心心民宿，它的特別之處在於是採人頭計算，一個人 200 元。算是非常划算。
 
 ### 鼻頭角燈塔
 
@@ -48,7 +50,7 @@ travel:
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/106069910@N03/21354862065/in/dateposted-public/" title="P1440394"><img src="https://farm1.staticflickr.com/720/21354862065_e324081915.jpg" width="500" alt="P1440394"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-由於時間的關係，我們到福隆的時候已經下午兩點，並且在那邊排隊買便當，所以我們就僅在福隆火車站停留。
+由於行程排太滿的關係，我們到福隆的時候已經下午兩點，並且在那邊排隊買便當，所以我們就僅在福隆火車站停留。
 
 ### 三貂角燈塔
 
