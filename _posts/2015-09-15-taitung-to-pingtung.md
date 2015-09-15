@@ -34,6 +34,8 @@ travel:
 
 ### 太麻里千禧曙光紀念園區
 
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/106069910@N03/21449277681/in/dateposted-public/" title="P1440938"><img src="https://farm6.staticflickr.com/5805/21449277681_1a4bc5240e.jpg" width="500" alt="P1440938"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
 太麻里千禧曙光紀念園區是一個沙子很粗的沙灘，而且在靠近海面的位置還有一堆小石頭。
 
 ### 多良車站
