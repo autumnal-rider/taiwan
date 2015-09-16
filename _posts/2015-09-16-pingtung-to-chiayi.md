@@ -6,7 +6,7 @@ category: 環島
 tags: 環島 台灣 Taiwan 萬巒 嘉義 美濃民俗村 旗山區公所 香蕉人 曾文水庫 大埔山莊
 keywords: 環島,台灣,Taiwan,萬巒,嘉義,美濃民俗村,旗山區公所,香蕉人,曾文水庫,大埔山莊
 google_map: https://bit.ly/1FMHQof
-thumb: https://farm6.staticflickr.com/5821/21201412812_56bb521ede.jpg
+thumb: https://farm1.staticflickr.com/681/21439064556_cb3a8b1ce3_n.jpg
 travel:
   from: 屏東
   to: 嘉義
@@ -26,21 +26,31 @@ travel:
 
 ### 美濃民俗村
 
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/106069910@N03/21454318422/in/dateposted-public/" title="P1450029"><img src="https://farm1.staticflickr.com/614/21454318422_d563248151.jpg" width="500" alt="P1450029"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
 美濃民俗村是一個小而美的點，裡面有冰、飯、擂茶。但是，不大需要太多的時間停留。
 
 ### 旗山區公所(香蕉人)
 
 香蕉人其實是大家最想去的原因。所以，請看：
 
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/106069910@N03/21277458998/in/dateposted-public/" title="P1450036"><img src="https://farm1.staticflickr.com/764/21277458998_9a96dfa1bf.jpg" width="500" alt="P1450036"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
 ### 旗山老街
+
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/106069910@N03/20842584304/in/dateposted-public/" title="P1450039"><img src="https://farm6.staticflickr.com/5826/20842584304_a227fedfd6.jpg" width="500" alt="P1450039"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 旗山老街其實就在區公所旁邊，大家想說來了都來了，還是走一下。這條老街上有許多不錯的美食，值得來這走走。
 
 ### 曾文水庫
 
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/106069910@N03/21277451628/in/dateposted-public/" title="P1450063"><img src="https://farm1.staticflickr.com/751/21277451628_4216f42d80.jpg" width="500" alt="P1450063"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
 曾文水庫是騎士們看過的最大的水庫，整個的感覺相當舒服。如果有到關仔嶺的話，一定要來這邊走走哦。
 
 ### 大埔山莊
+
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/106069910@N03/21277449518/in/dateposted-public/" title="P1450075"><img src="https://farm1.staticflickr.com/748/21277449518_f9730183cc.jpg" width="500" alt="P1450075"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 原本，騎士們想住在曾文水庫青年活動中心，但是三個人要 2,800 元、四個人要 3,200 元。跟先前幾天相比，差距有點大。所以，大家就前往大埔山莊，三個人要 1,500 元。
 
