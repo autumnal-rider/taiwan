@@ -7,6 +7,19 @@ tags: 環島 台灣 Taiwan 萬巒 嘉義 美濃民俗村 旗山區公所 香蕉�
 keywords: 環島,台灣,Taiwan,萬巒,嘉義,美濃民俗村,旗山區公所,香蕉人,曾文水庫,大埔山莊
 google_map: https://bit.ly/1FMHQof
 thumb: https://farm1.staticflickr.com/681/21439064556_cb3a8b1ce3_n.jpg
+backgrounds:
+    - https://farm1.staticflickr.com/588/20844900064_6730fd8037_h.jpg
+    - https://farm6.staticflickr.com/5780/21279767558_135de5c861_h.jpg
+    - https://farm6.staticflickr.com/5710/21280699299_629d21776b_h.jpg
+    - https://farm6.staticflickr.com/5764/21280698399_05d6a63208_h.jpg
+    - https://farm6.staticflickr.com/5817/21441385336_4a8856c6f3_h.jpg
+    - https://farm6.staticflickr.com/5758/21441385546_0b71aa33e3_h.jpg
+    - https://farm1.staticflickr.com/751/20846513483_9608946a80_h.jpg
+    - https://farm6.staticflickr.com/5631/20844902514_e655264389_h.jpg
+    - https://farm6.staticflickr.com/5685/21280702409_186fcbba38_h.jpg
+    - https://farm6.staticflickr.com/5781/20846514493_0f1b6d3b26_h.jpg
+    - https://farm1.staticflickr.com/612/21476191611_c8f8dd368a_h.jpg
+    - https://farm6.staticflickr.com/5766/21280701989_1276a7c267_h.jpg
 travel:
   from: 屏東
   to: 嘉義
