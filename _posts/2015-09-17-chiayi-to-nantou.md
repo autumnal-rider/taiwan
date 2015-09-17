@@ -7,6 +7,19 @@ tags: 環島 台灣 Taiwan 嘉義 南投 曾文水庫 竹崎親水公園 古坑�
 keywords: 環島,台灣,Taiwan,嘉義,南投,曾文水庫,竹崎親水公園,古坑綠色隧道,集集綠隧道,集集火車站,軍史公園,八張民宿
 google_map: https://bit.ly/1MsvfOy
 thumb: https://farm6.staticflickr.com/5687/21301657270_571259d680_n.jpg
+backgrounds:
+    - https://farm1.staticflickr.com/669/21498163281_3008742ac4_h.jpg
+    - https://farm1.staticflickr.com/740/20868447073_9b0c274637_h.jpg
+    - https://farm6.staticflickr.com/5620/20868447743_1171be46ad_h.jpg
+    - https://farm1.staticflickr.com/717/20866826214_a86f4fb9a5_h.jpg
+    - https://farm1.staticflickr.com/770/21301736748_dbf67c01a6_h.jpg
+    - https://farm6.staticflickr.com/5723/21498168431_94c37f1607_h.jpg
+    - https://farm1.staticflickr.com/627/21463316136_0033639138_h.jpg
+    - https://farm1.staticflickr.com/668/21463316786_313a75d2c8_h.jpg
+    - https://farm6.staticflickr.com/5836/20866830814_82ac67720b_h.jpg
+    - https://farm6.staticflickr.com/5813/21489562095_ea207238e2_h.jpg
+    - https://farm6.staticflickr.com/5775/21301503820_0ab4627834_h.jpg
+    - https://farm1.staticflickr.com/708/21478494382_7185569bfb_h.jpg
 travel:
   from: 嘉義
   to: 南投

@@ -8,19 +8,19 @@ keywords: 環島,台灣,Taiwan,宜蘭,花蓮,麗娜輪,牛山,光復糖廠,馬�
 google_map: https://bit.ly/1FFiZ5s
 thumb: https://farm1.staticflickr.com/750/20759411394_9b8069ea9e_n.jpg
 backgrounds:
-    - https://farm6.staticflickr.com/5725/21371397022_c372e831f3_h.jpg
-    - https://farm1.staticflickr.com/745/21194343918_45a97f394a_h.jpg
-    - https://farm1.staticflickr.com/634/20761106223_d54887846e_h.jpg
-    - https://farm6.staticflickr.com/5672/21355932196_7b223675fd_h.jpg
-    - https://farm1.staticflickr.com/636/21195248929_0566b2bef2_h.jpg
-    - https://farm1.staticflickr.com/649/21355896936_95c65fbbc9_h.jpg
-    - https://farm6.staticflickr.com/5803/21390423431_ea1a6e0ac0_h.jpg
-    - https://farm6.staticflickr.com/5639/21371242512_db9f769f93_h.jpg
-    - https://farm6.staticflickr.com/5791/20759319944_5d2931a904_h.jpg
-    - https://farm6.staticflickr.com/5671/21193878580_fff43b1a0c_h.jpg
-    - https://farm6.staticflickr.com/5828/21381948215_5cf3e8520c_h.jpg
-    - https://farm1.staticflickr.com/661/21194996159_8244eac54b_h.jpg
-    - https://farm6.staticflickr.com/5633/21194013838_a44bd96168_h.jpg
+    - https://farm6.staticflickr.com/5651/21477983522_e8a8bf6310_h.jpg
+    - https://farm1.staticflickr.com/762/20867947103_f47c515e50_h.jpg
+    - https://farm1.staticflickr.com/610/21300994390_78aa84d4fa_h.jpg
+    - https://farm1.staticflickr.com/685/21302134769_87054911f1_h.jpg
+    - https://farm6.staticflickr.com/5705/21301235188_c58c572a4e_h.jpg
+    - https://farm1.staticflickr.com/676/21489054355_8c4b6de0c3_h.jpg
+    - https://farm1.staticflickr.com/762/21462811776_c71d130836_h.jpg
+    - https://farm1.staticflickr.com/571/21301238888_0578fc2a8d_h.jpg
+    - https://farm1.staticflickr.com/697/21477992202_e008362f92_h.jpg
+    - https://farm6.staticflickr.com/5668/21462814946_79210af72c_h.jpg
+    - https://farm1.staticflickr.com/569/20866998644_8c97b48744_h.jpg
+    - https://farm6.staticflickr.com/5760/21478661432_a3ed1f189a_h.jpg
+    - https://farm1.staticflickr.com/684/21489730905_2a62c17cf2_h.jpg
 travel:
   from: 宜蘭
   to: 花蓮
