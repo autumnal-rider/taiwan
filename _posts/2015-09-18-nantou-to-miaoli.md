@@ -7,6 +7,19 @@ tags: 環島 台灣 Taiwan 南投 苗栗 中興新村 龍騰斷橋 勝興車站 
 keywords: 環島,台灣,Taiwan,南投,苗栗,中興新村,龍騰斷橋,勝興車站,南庄老街
 google_map: https://bit.ly/1NHJTlw
 thumb: https://farm1.staticflickr.com/781/21324412640_9ccc72ddc5_n.jpg
+backgrounds:
+    - https://farm6.staticflickr.com/5825/21324842498_e13d4986fb_h.jpg
+    - https://farm1.staticflickr.com/717/20891551423_f149606553_h.jpg
+    - https://farm1.staticflickr.com/726/21324625290_87880956d1_h.jpg
+    - https://farm6.staticflickr.com/5801/21324843348_84e631af3a_h.jpg
+    - https://farm6.staticflickr.com/5703/20889912294_67b35c9e0c_h.jpg
+    - https://farm6.staticflickr.com/5828/21325767069_17806fc03d_h.jpg
+    - https://farm6.staticflickr.com/5785/20891558363_a553a0bba4_h.jpg
+    - https://farm1.staticflickr.com/739/21521345791_0e9ac07bbb_h.jpg
+    - https://farm1.staticflickr.com/775/21486457526_eda62ab205_h.jpg
+    - https://farm6.staticflickr.com/5830/21486450886_f9392a7f20_h.jpg
+    - https://farm6.staticflickr.com/5790/21324629220_ae5e5f686d_h.jpg
+    - https://farm6.staticflickr.com/5638/21521343011_08c00a9bbc_h.jpg
 travel:
   from: 南投
   to: 苗栗
