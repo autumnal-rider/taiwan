@@ -6,7 +6,7 @@ category: 環島
 tags: 環島 台灣 Taiwan 南投 苗栗 中興新村 龍騰斷橋 勝興車站 南庄老街
 keywords: 環島,台灣,Taiwan,南投,苗栗,中興新村,龍騰斷橋,勝興車站,南庄老街
 google_map: https://bit.ly/1NHJTlw
-thumb: https://farm1.staticflickr.com/678/21219709501_d45cc70fa8.jpg
+thumb: https://farm1.staticflickr.com/781/21324412640_9ccc72ddc5_n.jpg
 travel:
   from: 南投
   to: 苗栗
@@ -30,17 +30,25 @@ travel:
 
 ### 中興新村牌樓
 
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/106069910@N03/21521170631/in/dateposted-public/" title="P1450171"><img src="https://farm1.staticflickr.com/736/21521170631_a6bc1e33b8.jpg" width="500" alt="P1450171"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
 中興新村真的是一個很漂亮的地方，不過現在因為有一些單位進駐。目前有一些工程正在進行，所以過去的時候可能會需要繞一下。
 
 ### 龍騰斷橋
+
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/106069910@N03/21324440180/in/dateposted-public/" title="P1450185"><img src="https://farm1.staticflickr.com/723/21324440180_70fb5dfb3f.jpg" width="500" alt="P1450185"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 龍騰斷橋就是魚藤坪斷橋，似乎是以前的新竹台中州大地震將它給震壞，從 1907 年到現在，已經有上百年了。
 
 ### 勝興車站
 
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/106069910@N03/20891353153/in/dateposted-public/" title="P1450205"><img src="https://farm1.staticflickr.com/726/20891353153_0f17eeb5d7.jpg" width="500" alt="P1450205"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
 勝興車站是老山線中的最高車站(約 400 米)，雖然今天不是假日，但是還是有很多人前往勝興車站。
 
 ### 南庄老街 - 曲中居
+
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/106069910@N03/21512456655/in/dateposted-public/" title="P1450261"><img src="https://farm1.staticflickr.com/762/21512456655_f391d2b1fd.jpg" width="500" alt="P1450261"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 曲中居是騎士們在網路上找到的民宿，裡面很整齊，而且收費很合理，平日學生價一個人頭 500。由於騎士們不是學生，老闆還是以學生價計算，真是太感謝他了。
 
