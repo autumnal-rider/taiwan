@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Day 5: 萬巒➟嘉義"
+title: "Day 5: 屏東➟嘉義"
 date: 2015-09-16
 category: 環島
 tags: 環島 台灣 Taiwan 萬巒 嘉義 美濃民俗村 旗山區公所 香蕉人 曾文水庫 大埔山莊
