@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "Day 4: 台東➟萬巒"
+title: "Day 4: 台東➟屏東"
 date: 2015-09-15
 category: 環島
 tags: 環島 台灣 Taiwan 台東 萬巒 多良車站 海鴻飯店 萬金聖母聖殿
-keywords: 環島,台灣,Taiwan,台東,萬巒,多良車站,海鴻飯店,萬金聖母聖殿
+keywords: 環島,台灣,Taiwan,台東,萬巒,多良車站,海鴻飯店,萬金聖母聖殿,屏東
 google_map: https://bit.ly/1Lw3S0d
 thumb: https://farm6.staticflickr.com/5722/21428576952_6f90e366bd_n.jpg
 backgrounds:
