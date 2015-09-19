@@ -7,6 +7,16 @@ tags: 環島 台灣 Taiwan 苗栗 台北 龍潭大池 石門水庫 大溪老街 
 keywords: 環島,台灣,Taiwan,苗栗,台北,龍潭大池,石門水庫,大溪老街,三峽老街
 google_map: https://bit.ly/1JhikHM
 thumb: https://farm1.staticflickr.com/635/21541522085_98ea2022cd_n.jpg
+backgrounds:
+    - https://farm1.staticflickr.com/665/20919012604_cfc0b4e108_h.jpg
+    - https://farm1.staticflickr.com/709/20920656563_b1395c022e_h.jpg
+    - https://farm1.staticflickr.com/709/21530593292_ee1c4c2f27_h.jpg
+    - https://farm6.staticflickr.com/5784/21353731890_59f42a1029_h.jpg
+    - https://farm6.staticflickr.com/5781/21550527801_25a8d2cc8b_h.jpg
+    - https://farm1.staticflickr.com/700/21550527501_2b97142d44_h.jpg
+    - https://farm1.staticflickr.com/701/21354872669_2e13688fc6_h.jpg
+    - https://farm1.staticflickr.com/731/21354872259_313444445c_h.jpg
+    - https://farm6.staticflickr.com/5746/21354871339_b229f5e1f1_h.jpg
 travel:
   from: 苗栗
   to: 台北
