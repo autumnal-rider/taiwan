@@ -6,7 +6,7 @@ category: 環島
 tags: 環島 台灣 Taiwan 苗栗 台北 龍潭大池 石門水庫 大溪老街 三峽老街
 keywords: 環島,台灣,Taiwan,苗栗,台北,龍潭大池,石門水庫,大溪老街,三峽老街
 google_map: https://bit.ly/1JhikHM
-thumb: https://farm6.staticflickr.com/5724/21201412352_28f363699c.jpg
+thumb: https://farm1.staticflickr.com/635/21541522085_98ea2022cd_n.jpg
 travel:
   from: 苗栗
   to: 台北
@@ -24,17 +24,25 @@ travel:
 
 ### 龍潭大池
 
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/106069910@N03/21550359381/in/dateposted-public/" title="P1450296"><img src="https://farm1.staticflickr.com/660/21550359381_8a777d8c0a.jpg" width="500" alt="P1450296"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
 龍潭大池是一個很漂亮的大池，上面可以釣魚，而且池邊的公園很大，很適合帶小朋友一起去玩哦。
 
 ### 石門水庫
+
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/106069910@N03/21353760838/in/dateposted-public/" title="P1450307"><img src="https://farm6.staticflickr.com/5713/21353760838_1a5e0eb12f.jpg" width="500" alt="P1450307"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 原本去過曾文水庫後，大家打算把所有水庫的行程都給刪了。後來，因為有一個騎士推薦到壩底到走走。大家就決定去石門水庫壩底瞧瞧。
 
 ### 大溪老街
 
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/106069910@N03/21530400452/in/dateposted-public/" title="P1450339"><img src="https://farm6.staticflickr.com/5664/21530400452_b53753cf51.jpg" width="500" alt="P1450339"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
 大溪老街就在大溪橋旁邊，只是走過大溪橋後，還要往上爬才能到。老街上有很多賣現煮豆干，而且每家看起來都很好吃哦。
 
 ### 三峽老街
+
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/106069910@N03/21515354216/in/dateposted-public/" title="P1450346"><img src="https://farm1.staticflickr.com/771/21515354216_d5ddb625bb.jpg" width="500" alt="P1450346"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 三峽老街是大家看過最美的老街，而且大家可以爬上老街警察局門口的二樓拍照，整個感覺超棒的。
 
