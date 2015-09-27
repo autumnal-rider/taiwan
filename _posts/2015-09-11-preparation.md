@@ -6,6 +6,7 @@ category: 環島
 tags: 環島 台灣 Taiwan 機車 住宿 行前準備
 keywords: 環島,台灣,Taiwan,機車,住宿,行前準備
 thumb: https://farm1.staticflickr.com/737/20732996823_6389db6396.jpg
+site_head: true
 ---
 
 ## 行前準備

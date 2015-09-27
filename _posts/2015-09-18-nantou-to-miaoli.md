@@ -24,6 +24,7 @@ travel:
   from: 南投
   to: 苗栗
   distance: '154 KM'
+site_head: true
 ---
 
 ## 路線
