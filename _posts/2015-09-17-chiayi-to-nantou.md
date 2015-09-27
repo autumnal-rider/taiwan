@@ -24,6 +24,7 @@ travel:
   from: 嘉義
   to: 南投
   distance: '118 KM'
+site_head: true
 ---
 
 ## 路線

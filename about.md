@@ -2,6 +2,7 @@
 layout: page
 title: About
 permalink: /about/
+site_head: true
 ---
 
 秋天騎士是關於三個軟體工程師(碼農)的故事。他們三個分別屬於 70 後、80 後、90 後三個世代。三個人曾經在同一個地方工作，一起解 bug、一起做 feature、一起出國、一起吃飯、一起打屁…。

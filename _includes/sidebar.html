@@ -1,7 +1,11 @@
 <a href="#" class="sb-toggle-left">選單
     <span class="nav-icon"></span>
 </a>
-
+<div class="page-site-title">
+    {% if page.site_head %}
+    <a href="{{ site.baseurl }}/"><h2 class="site-title">{{ site.title }}</h2></a>
+    {% endif %}
+</div>
 <div class="sb-slidebar sb-left sb-style-push">
     <nav>
         <a href="{{ site.baseurl }}/"><h2 class="site-title">{{ site.title }}</h2></a>
