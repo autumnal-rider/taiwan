@@ -80,5 +80,5 @@ site_head: true
 
 ## 實際騎乘路徑
 
-如果大家想了解我們實際走過的路徑，可以下載這個 <a href="https://bit.ly/1OajYTq" alt="KML 路徑檔" target="_blank">KML 路徑檔</a>，並使用 Google Earth 來查看。
+如果大家想了解我們實際走過的路徑，可以下載這個 <a href="https://drive.google.com/file/d/0B2WBCZxmjTAjdzkzQXI1bk5DUGM/view?usp=sharing&resourcekey=0-OFyPKL4DKNOtqlB8unqv2g" alt="KML 路徑檔" target="_blank">KML 路徑檔</a>，並使用 Google Earth 來查看。
 
