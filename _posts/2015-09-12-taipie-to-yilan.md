@@ -5,7 +5,7 @@ date: 2015-09-12
 category: 環島
 tags: 環島 台灣 Taiwan 台北 宜蘭 樂口福 陰陽海 鼻頭角燈塔 福隆海水浴場 三貂角燈塔 伯朗咖啡城堡 蘭陽博物館 南方澳
 keywords: 環島,台灣,Taiwan,台北,宜蘭,樂口福,陰陽海,鼻頭角燈塔,福隆海水浴場,三貂角燈塔,伯朗咖啡城堡,蘭陽博物館,南方澳
-google_map: https://drive.google.com/file/d/0B2WBCZxmjTAjTXlVMHg1d3ptQTQ/view?usp=sharing&resourcekey=0-X9gapxphXFAbaMkSI1HCnQ
+google_map: https://bit.ly/1UKtmRQ
 thumb: https://farm1.staticflickr.com/707/21166987758_fe3a01bd69_n.jpg
 backgrounds:
     - https://farm6.staticflickr.com/5749/21361538971_c241d0637f_h.jpg
